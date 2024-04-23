@@ -1,0 +1,11 @@
+.opozorilo-container {
+    /* background-color: rgba(255, 0, 0, 0.7); */
+    color: black;
+    border-radius: 55px;
+}
+
+.info-container {
+    /* background-color: rgba(0, 255, 21, 0.7); */
+    color: black;
+    border-radius: 10px;
+}

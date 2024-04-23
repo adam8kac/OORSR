@@ -1,0 +1,22 @@
+.igralec-container {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: auto;
+    width: 250px;
+}
+
+.igralec-container p {
+    margin: 4px 0;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.igralec-container p span {
+    font-weight: bold;
+}
+
+.poškodovan {
+    color: red;
+}
